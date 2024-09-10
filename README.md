@@ -30,7 +30,7 @@ Instructions for setting up the project locally.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repository-url.git](https://github.com/Ayushmaan-tech/whatsapp-chat-analyser.git
+git clone https://github.com/Ayushmaan-tech/whatsapp-chat-analyser.git
 
 # Navigate to the project directory
 cd whatsapp-chat-analyzer
