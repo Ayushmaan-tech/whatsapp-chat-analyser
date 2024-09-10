@@ -1,6 +1,10 @@
-# whatsapp-chat-analyser
+# WhatsApp Chat Analyzer
 
+This project is a Streamlit app that allows users to upload and analyze their WhatsApp chat data, providing insights and visualizations like word count, active users, media sharing, and more.
 
+## Live Demo
+
+Check out the live demo: https://chatdecode.streamlit.app/
 
 Application Interface: 
 
@@ -15,3 +19,24 @@ Application Interface:
 ![1008](https://github.com/user-attachments/assets/f7776473-4dc5-4751-884d-130c8cb4dd12)
 ![1009](https://github.com/user-attachments/assets/69e44976-04e8-400e-a0e8-a365044c4df1)
 
+## Features
+- Upload WhatsApp chat file and analyze it instantly.
+- Visualize the most active users, message counts, and media sharing trends.
+- Generate word clouds to highlight frequently used words in the chat.
+- Get insights on daily, weekly, and monthly chat activity.
+
+## Installation
+Instructions for setting up the project locally.
+
+```bash
+# Clone the repository
+git clone https://github.com/your-repository-url.git](https://github.com/Ayushmaan-tech/whatsapp-chat-analyser.git
+
+# Navigate to the project directory
+cd whatsapp-chat-analyzer
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
